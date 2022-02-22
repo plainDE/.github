@@ -3,6 +3,8 @@
   
   <img src="https://raw.githubusercontent.com/plainDE/.github/main/profile/logo.png" width="128" height="128">
 
+  ![Metrics](/github-metrics.svg)
+  
   <p>We've just started development of new Qt-based KISS desktop envirovment.</p>
  
   <p>Any help is welcome.</p>
